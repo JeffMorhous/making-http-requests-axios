@@ -6,7 +6,7 @@
 
 A simple JS app to demonstrate how to make Axios HTTP requests both on Node.js and also on the browser.
 
-## Clone the repository:
+## Clone the repository
 
 run the following command on your terminal to clone the repository:
 
